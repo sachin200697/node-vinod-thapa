@@ -1,0 +1,32 @@
+[
+	{
+		"id": "1",
+		"username": "Sachin",
+		"email": "S@abc.com",
+		"address": "mirpur",
+		"phone": "893859495"
+	},
+
+	{
+		"id": "2",
+		"username": "Pradeep",
+		"email": "p@abc.com",
+		"address": "mirpur",
+		"phone": "893859495"
+	},
+
+	{
+		"id": "3",
+		"username": "Arun",
+		"email": "A@abc.com",
+		"address": "mirpur",
+		"phone": "893859495"
+	},
+	{
+		"id": "4",
+		"username": "Sumit",
+		"email": "smt@abc.com",
+		"address": "mirpur",
+		"phone": "893859495"
+	}
+]

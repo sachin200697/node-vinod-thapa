@@ -1,0 +1,5 @@
+Files is a file management app developed by Google for file browsing, 
+media consumption, storage clean-up and offline file transfer. 
+It was released by Google on December 5, 
+2017 with a custom version for China being released on May 30, 
+2018. Wikipedia
